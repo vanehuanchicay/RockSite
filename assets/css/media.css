@@ -1,0 +1,14 @@
+@media (max-width: 767px){
+    [class*="col-"]{
+        width: 100%;
+    }
+     .fa-bars{
+      display:inline-block;
+      color: white;
+    }
+    .menu{
+      display: none;
+      width: 50%;
+    }
+
+}

@@ -1,0 +1,74 @@
+nav{
+	background-color: #3D3D3D;
+}
+.text_nav a{
+	margin-right:3%;
+	color:#CBCBCB;
+}
+.text_nav{
+	padding:0;
+}
+.tittle_nav {
+	padding-top:0.7%; 
+}
+.tittle_nav{
+	padding-left: 6%;
+	padding-bottom: 0;
+}
+.img_back{
+	background-image: url(../img/headerdos.jpg);
+	background-size: cover;
+	background-position: 25% 38%;
+	height: 75vh;
+}
+section{
+	margin:0; 
+}
+.text_above{
+	color: white;
+	max-width: 100%;
+	text-align: center;
+	margin-top: 10%;
+
+}
+.text_above h5 , h6{
+	font-size: 450%;
+	max-width: 100%;
+}
+.text_above h6{
+	font-size: 250%;
+	max-width: 100%;
+}
+.circle_one{
+	border-radius: 50%;
+	width: 60%;
+}
+.about_rock{
+	max-width: 100%
+	width: 50%;
+	margin-top: 5%;
+	font-size: 110%;
+}
+.about_rock h4{
+	font-size: 250%;
+	font-weight: 300;
+}
+.circles{
+	padding: 2% 0;
+}
+.end{
+	background-color: #3D3D3D;
+	margin-bottom: 0;
+	color:white;
+	text-align: center;
+}
+.fa-bars{
+    display: none;
+    outline: 1px solid pink;
+}
+.about_rock_three h4{
+	
+	font-size: 250%;
+	font-weight: 300;
+
+}
